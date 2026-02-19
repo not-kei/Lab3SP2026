@@ -59,7 +59,7 @@ int main() {
 
     // Test IsFull
     cout << "Test 9: Fill stack to test IsFull\n";
-    for (int i = 0; i < size; i++) {
+    for (int i = 0; i < 100; i++) {
         intStack.Push(i);
     }
     cout << (intStack.IsFull() ? "PASS\n" : "FAIL\n");
