@@ -1,3 +1,13 @@
+/*
+    Olivia Dodds
+    C++ SP2026
+    Due: Mar 5, 2026
+	Lab 3 AStack 
+	A array-based stack, with main testing the program. 
+    The stack should be able to push, pop, and return the top item, as well as check if it is empty or full. 
+    The main function should test all of these functions and display appropriate messages for each test.
+*/
+
 #include <iostream>
 #include "AStack.h"
 using namespace std;
