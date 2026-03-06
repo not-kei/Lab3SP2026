@@ -1,7 +1,7 @@
 /*
     Olivia Dodds
     C++ SP2026
-    Due: Mar 5, 2026
+    Due: Mar 5, 2026.
 	Lab 3 AStack 
 	A array-based stack, with main testing the program. 
     The stack should be able to push, pop, and return the top item, as well as check if it is empty or full. 
